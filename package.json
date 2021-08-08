@@ -1,0 +1,12 @@
+{
+  "name": "typescript-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node target/javascript/Main.js;"
+  },
+  "author": "",
+  "license": "ISC"
+}
