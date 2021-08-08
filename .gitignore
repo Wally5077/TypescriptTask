@@ -1,0 +1,8 @@
+node_modules
+target
+.env
+package-lock.json
+tsconfig.json
+src/main/typescript/Client.ts
+src/main/typescript/Test.ts
+.idea
